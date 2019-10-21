@@ -6,6 +6,7 @@ function App() {
   return (
     <main className="container">
       <Movie></Movie>
+     
     </main>
   );
 }
